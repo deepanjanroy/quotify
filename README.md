@@ -1,4 +1,4 @@
-quotify
+Quotify
 =======
 
-"Quote" random "words" in a "site"
+Best demonstrated through a demo: 
